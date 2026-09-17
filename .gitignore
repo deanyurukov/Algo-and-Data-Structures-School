@@ -33,4 +33,5 @@ replay_pid*
 node_modules
 .vscode
 
+book.pdf
 # End of https://www.toptal.com/developers/gitignore/api/java
