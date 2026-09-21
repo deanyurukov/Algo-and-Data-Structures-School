@@ -1,0 +1,17 @@
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/01. GreedyAlgorithms/MoneyGet/bin/Debug/net11.0/MoneyGet
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/01. GreedyAlgorithms/MoneyGet/bin/Debug/net11.0/MoneyGet.deps.json
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/01. GreedyAlgorithms/MoneyGet/bin/Debug/net11.0/MoneyGet.runtimeconfig.json
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/01. GreedyAlgorithms/MoneyGet/bin/Debug/net11.0/MoneyGet.runtimeconfig.dev.json
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/01. GreedyAlgorithms/MoneyGet/bin/Debug/net11.0/MoneyGet.dll
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/01. GreedyAlgorithms/MoneyGet/bin/Debug/net11.0/MoneyGet.pdb
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/01. GreedyAlgorithms/MoneyGet/obj/Debug/net11.0/MoneyGet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/01. GreedyAlgorithms/MoneyGet/obj/Debug/net11.0/MoneyGet.AssemblyInfoInputs.cache
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/01. GreedyAlgorithms/MoneyGet/obj/Debug/net11.0/MoneyGet.AssemblyInfo.cs
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/01. GreedyAlgorithms/MoneyGet/obj/Debug/net11.0/MoneyGet.csproj.CoreCompileInputs.cache
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/01. GreedyAlgorithms/MoneyGet/obj/Debug/net11.0/MoneyGet.sourcelink.json
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/01. GreedyAlgorithms/MoneyGet/obj/Debug/net11.0/MoneyGet.dll
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/01. GreedyAlgorithms/MoneyGet/obj/Debug/net11.0/refint/MoneyGet.dll
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/01. GreedyAlgorithms/MoneyGet/obj/Debug/net11.0/MoneyGet.pdb
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/01. GreedyAlgorithms/MoneyGet/obj/Debug/net11.0/MoneyGet.genruntimeconfig.cache
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/01. GreedyAlgorithms/MoneyGet/obj/Debug/net11.0/ref/MoneyGet.dll
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/01. GreedyAlgorithms/MoneyGet/obj/Debug/net11.0/MoneyGet.csproj.Up2Date
