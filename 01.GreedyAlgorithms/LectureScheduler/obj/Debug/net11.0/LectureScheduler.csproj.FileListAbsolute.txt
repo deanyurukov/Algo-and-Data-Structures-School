@@ -1,0 +1,17 @@
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/01.GreedyAlgorithms/LectureScheduler/bin/Debug/net11.0/LectureScheduler
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/01.GreedyAlgorithms/LectureScheduler/bin/Debug/net11.0/LectureScheduler.deps.json
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/01.GreedyAlgorithms/LectureScheduler/bin/Debug/net11.0/LectureScheduler.runtimeconfig.json
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/01.GreedyAlgorithms/LectureScheduler/bin/Debug/net11.0/LectureScheduler.runtimeconfig.dev.json
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/01.GreedyAlgorithms/LectureScheduler/bin/Debug/net11.0/LectureScheduler.dll
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/01.GreedyAlgorithms/LectureScheduler/bin/Debug/net11.0/LectureScheduler.pdb
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/01.GreedyAlgorithms/LectureScheduler/obj/Debug/net11.0/LectureScheduler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/01.GreedyAlgorithms/LectureScheduler/obj/Debug/net11.0/LectureScheduler.AssemblyInfoInputs.cache
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/01.GreedyAlgorithms/LectureScheduler/obj/Debug/net11.0/LectureScheduler.AssemblyInfo.cs
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/01.GreedyAlgorithms/LectureScheduler/obj/Debug/net11.0/LectureScheduler.csproj.CoreCompileInputs.cache
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/01.GreedyAlgorithms/LectureScheduler/obj/Debug/net11.0/LectureScheduler.sourcelink.json
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/01.GreedyAlgorithms/LectureScheduler/obj/Debug/net11.0/LectureScheduler.dll
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/01.GreedyAlgorithms/LectureScheduler/obj/Debug/net11.0/refint/LectureScheduler.dll
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/01.GreedyAlgorithms/LectureScheduler/obj/Debug/net11.0/LectureScheduler.pdb
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/01.GreedyAlgorithms/LectureScheduler/obj/Debug/net11.0/LectureScheduler.genruntimeconfig.cache
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/01.GreedyAlgorithms/LectureScheduler/obj/Debug/net11.0/ref/LectureScheduler.dll
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/01.GreedyAlgorithms/LectureScheduler/obj/Debug/net11.0/LectureS.F29BC744.Up2Date

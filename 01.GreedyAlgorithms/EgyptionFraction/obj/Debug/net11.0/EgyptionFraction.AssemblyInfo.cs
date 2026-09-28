@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EgyptionFraction")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cba90ab64d7e8dddbf9bf96d2d00c633b8158d76")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+954baebf324160a9c50b4073db6f88aacf6564eb")]
 [assembly: System.Reflection.AssemblyProductAttribute("EgyptionFraction")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EgyptionFraction")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

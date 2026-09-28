@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyGet", "MoneyGet\MoneyG
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EgyptionFraction", "EgyptionFraction\EgyptionFraction.csproj", "{59F3CB49-508F-41B2-B5AD-FA9C0D68BDFF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LectureScheduler", "LectureScheduler\LectureScheduler.csproj", "{A175C42F-6BE1-4F07-9C4F-BD28531AEE00}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{59F3CB49-508F-41B2-B5AD-FA9C0D68BDFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{59F3CB49-508F-41B2-B5AD-FA9C0D68BDFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{59F3CB49-508F-41B2-B5AD-FA9C0D68BDFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A175C42F-6BE1-4F07-9C4F-BD28531AEE00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A175C42F-6BE1-4F07-9C4F-BD28531AEE00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A175C42F-6BE1-4F07-9C4F-BD28531AEE00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A175C42F-6BE1-4F07-9C4F-BD28531AEE00}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
