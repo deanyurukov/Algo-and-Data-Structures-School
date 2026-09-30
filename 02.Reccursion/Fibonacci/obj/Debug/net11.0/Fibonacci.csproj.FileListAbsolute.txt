@@ -1,0 +1,17 @@
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/Fibonacci/bin/Debug/net11.0/Fibonacci
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/Fibonacci/bin/Debug/net11.0/Fibonacci.deps.json
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/Fibonacci/bin/Debug/net11.0/Fibonacci.runtimeconfig.json
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/Fibonacci/bin/Debug/net11.0/Fibonacci.runtimeconfig.dev.json
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/Fibonacci/bin/Debug/net11.0/Fibonacci.dll
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/Fibonacci/bin/Debug/net11.0/Fibonacci.pdb
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/Fibonacci/obj/Debug/net11.0/Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/Fibonacci/obj/Debug/net11.0/Fibonacci.AssemblyInfoInputs.cache
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/Fibonacci/obj/Debug/net11.0/Fibonacci.AssemblyInfo.cs
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/Fibonacci/obj/Debug/net11.0/Fibonacci.csproj.CoreCompileInputs.cache
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/Fibonacci/obj/Debug/net11.0/Fibonacci.sourcelink.json
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/Fibonacci/obj/Debug/net11.0/Fibonacci.dll
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/Fibonacci/obj/Debug/net11.0/refint/Fibonacci.dll
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/Fibonacci/obj/Debug/net11.0/Fibonacci.pdb
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/Fibonacci/obj/Debug/net11.0/Fibonacci.genruntimeconfig.cache
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/Fibonacci/obj/Debug/net11.0/ref/Fibonacci.dll
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/Fibonacci/obj/Debug/net11.0/Fibonacci.csproj.Up2Date
