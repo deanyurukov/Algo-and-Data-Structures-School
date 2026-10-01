@@ -14,9 +14,8 @@ class Program
     
     static void Main()
     {
-        int tenthNumberOfFibonacci = Fibonacci(10);
-        int eleventhNumberOfFibonacci = Fibonacci(11);
+        int numberToCalc = 10;
 
-        Console.WriteLine((double) eleventhNumberOfFibonacci / tenthNumberOfFibonacci);
+        Console.WriteLine((double) Fibonacci(numberToCalc + 1) / Fibonacci(numberToCalc));
     }
 }
