@@ -1,0 +1,17 @@
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/Factorial/bin/Debug/net11.0/Factorial
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/Factorial/bin/Debug/net11.0/Factorial.deps.json
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/Factorial/bin/Debug/net11.0/Factorial.runtimeconfig.json
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/Factorial/bin/Debug/net11.0/Factorial.runtimeconfig.dev.json
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/Factorial/bin/Debug/net11.0/Factorial.dll
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/Factorial/bin/Debug/net11.0/Factorial.pdb
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/Factorial/obj/Debug/net11.0/Factorial.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/Factorial/obj/Debug/net11.0/Factorial.AssemblyInfoInputs.cache
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/Factorial/obj/Debug/net11.0/Factorial.AssemblyInfo.cs
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/Factorial/obj/Debug/net11.0/Factorial.csproj.CoreCompileInputs.cache
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/Factorial/obj/Debug/net11.0/Factorial.sourcelink.json
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/Factorial/obj/Debug/net11.0/Factorial.dll
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/Factorial/obj/Debug/net11.0/refint/Factorial.dll
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/Factorial/obj/Debug/net11.0/Factorial.pdb
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/Factorial/obj/Debug/net11.0/Factorial.genruntimeconfig.cache
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/Factorial/obj/Debug/net11.0/ref/Factorial.dll
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/Factorial/obj/Debug/net11.0/Factorial.csproj.Up2Date
