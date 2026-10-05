@@ -1,0 +1,17 @@
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/FractionSimpler/bin/Debug/net11.0/FractionSimpler
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/FractionSimpler/bin/Debug/net11.0/FractionSimpler.deps.json
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/FractionSimpler/bin/Debug/net11.0/FractionSimpler.runtimeconfig.json
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/FractionSimpler/bin/Debug/net11.0/FractionSimpler.runtimeconfig.dev.json
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/FractionSimpler/bin/Debug/net11.0/FractionSimpler.dll
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/FractionSimpler/bin/Debug/net11.0/FractionSimpler.pdb
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/FractionSimpler/obj/Debug/net11.0/FractionSimpler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/FractionSimpler/obj/Debug/net11.0/FractionSimpler.AssemblyInfoInputs.cache
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/FractionSimpler/obj/Debug/net11.0/FractionSimpler.AssemblyInfo.cs
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/FractionSimpler/obj/Debug/net11.0/FractionSimpler.csproj.CoreCompileInputs.cache
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/FractionSimpler/obj/Debug/net11.0/FractionSimpler.sourcelink.json
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/FractionSimpler/obj/Debug/net11.0/FractionSimpler.dll
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/FractionSimpler/obj/Debug/net11.0/refint/FractionSimpler.dll
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/FractionSimpler/obj/Debug/net11.0/FractionSimpler.pdb
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/FractionSimpler/obj/Debug/net11.0/FractionSimpler.genruntimeconfig.cache
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/FractionSimpler/obj/Debug/net11.0/ref/FractionSimpler.dll
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/FractionSimpler/obj/Debug/net11.0/Fraction.C5CD7253.Up2Date

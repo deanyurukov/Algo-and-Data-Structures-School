@@ -1,0 +1,17 @@
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/GCD_Iterative/bin/Debug/net11.0/GCD_Iterative
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/GCD_Iterative/bin/Debug/net11.0/GCD_Iterative.deps.json
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/GCD_Iterative/bin/Debug/net11.0/GCD_Iterative.runtimeconfig.json
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/GCD_Iterative/bin/Debug/net11.0/GCD_Iterative.runtimeconfig.dev.json
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/GCD_Iterative/bin/Debug/net11.0/GCD_Iterative.dll
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/GCD_Iterative/bin/Debug/net11.0/GCD_Iterative.pdb
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/GCD_Iterative/obj/Debug/net11.0/GCD_Iterative.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/GCD_Iterative/obj/Debug/net11.0/GCD_Iterative.AssemblyInfoInputs.cache
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/GCD_Iterative/obj/Debug/net11.0/GCD_Iterative.AssemblyInfo.cs
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/GCD_Iterative/obj/Debug/net11.0/GCD_Iterative.csproj.CoreCompileInputs.cache
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/GCD_Iterative/obj/Debug/net11.0/GCD_Iterative.sourcelink.json
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/GCD_Iterative/obj/Debug/net11.0/GCD_Iterative.dll
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/GCD_Iterative/obj/Debug/net11.0/refint/GCD_Iterative.dll
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/GCD_Iterative/obj/Debug/net11.0/GCD_Iterative.pdb
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/GCD_Iterative/obj/Debug/net11.0/GCD_Iterative.genruntimeconfig.cache
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/GCD_Iterative/obj/Debug/net11.0/ref/GCD_Iterative.dll
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/GCD_Iterative/obj/Debug/net11.0/GCD_Iter.02F628D0.Up2Date

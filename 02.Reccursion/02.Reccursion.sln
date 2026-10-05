@@ -4,6 +4,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibonacci", "Fibonacci\Fibo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factorial", "Factorial\Factorial.csproj", "{B2266720-B610-43DC-8CD3-799FA2D66028}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GCD_Recursive", "GCD_Recursive\GCD_Recursive.csproj", "{59CEC4E6-4017-45A3-9015-84F6C1CC315E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GCD_Iterative", "GCD_Iterative\GCD_Iterative.csproj", "{ECCC18EC-792A-4F67-AEDE-79113416E005}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FractionSimpler", "FractionSimpler\FractionSimpler.csproj", "{2A8B6ECA-9749-447E-9367-3280BD7CF2BE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +24,17 @@ Global
 		{B2266720-B610-43DC-8CD3-799FA2D66028}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B2266720-B610-43DC-8CD3-799FA2D66028}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B2266720-B610-43DC-8CD3-799FA2D66028}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59CEC4E6-4017-45A3-9015-84F6C1CC315E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59CEC4E6-4017-45A3-9015-84F6C1CC315E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59CEC4E6-4017-45A3-9015-84F6C1CC315E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59CEC4E6-4017-45A3-9015-84F6C1CC315E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECCC18EC-792A-4F67-AEDE-79113416E005}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECCC18EC-792A-4F67-AEDE-79113416E005}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECCC18EC-792A-4F67-AEDE-79113416E005}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECCC18EC-792A-4F67-AEDE-79113416E005}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A8B6ECA-9749-447E-9367-3280BD7CF2BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A8B6ECA-9749-447E-9367-3280BD7CF2BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A8B6ECA-9749-447E-9367-3280BD7CF2BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A8B6ECA-9749-447E-9367-3280BD7CF2BE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
