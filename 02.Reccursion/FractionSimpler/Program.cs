@@ -12,7 +12,7 @@ class Fraction
 
     public override string ToString()
     {
-        int gcd = Fraction.GCD(nominator, denominator);
+        int gcd = GCD(nominator, denominator);
         return $"{nominator / gcd} / {denominator / gcd}";
     }
 
