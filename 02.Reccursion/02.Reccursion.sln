@@ -14,6 +14,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigestNum_Iterative", "Dige
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigestNum_Recursive", "DigestNum_Recursive\DigestNum_Recursive.csproj", "{659D515E-1DB7-4C22-A64E-340FE88998B3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerOfTen", "PowerOfTen\PowerOfTen.csproj", "{98F798D8-BA0F-4B65-AEEE-016EBA0F2EC5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,5 +50,9 @@ Global
 		{659D515E-1DB7-4C22-A64E-340FE88998B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{659D515E-1DB7-4C22-A64E-340FE88998B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{659D515E-1DB7-4C22-A64E-340FE88998B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98F798D8-BA0F-4B65-AEEE-016EBA0F2EC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98F798D8-BA0F-4B65-AEEE-016EBA0F2EC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98F798D8-BA0F-4B65-AEEE-016EBA0F2EC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98F798D8-BA0F-4B65-AEEE-016EBA0F2EC5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
