@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v11.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v11.0": {
+      "DigestNum_Recursive/1.0.0": {
+        "runtime": {
+          "DigestNum_Recursive.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DigestNum_Recursive/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

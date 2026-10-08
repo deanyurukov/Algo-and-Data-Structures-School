@@ -1,0 +1,17 @@
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/DigestNum_Recursive/bin/Debug/net11.0/DigestNum_Recursive
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/DigestNum_Recursive/bin/Debug/net11.0/DigestNum_Recursive.deps.json
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/DigestNum_Recursive/bin/Debug/net11.0/DigestNum_Recursive.runtimeconfig.json
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/DigestNum_Recursive/bin/Debug/net11.0/DigestNum_Recursive.runtimeconfig.dev.json
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/DigestNum_Recursive/bin/Debug/net11.0/DigestNum_Recursive.dll
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/DigestNum_Recursive/bin/Debug/net11.0/DigestNum_Recursive.pdb
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/DigestNum_Recursive/obj/Debug/net11.0/DigestNum_Recursive.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/DigestNum_Recursive/obj/Debug/net11.0/DigestNum_Recursive.AssemblyInfoInputs.cache
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/DigestNum_Recursive/obj/Debug/net11.0/DigestNum_Recursive.AssemblyInfo.cs
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/DigestNum_Recursive/obj/Debug/net11.0/DigestNum_Recursive.csproj.CoreCompileInputs.cache
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/DigestNum_Recursive/obj/Debug/net11.0/DigestNum_Recursive.sourcelink.json
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/DigestNum_Recursive/obj/Debug/net11.0/DigestNum_Recursive.dll
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/DigestNum_Recursive/obj/Debug/net11.0/refint/DigestNum_Recursive.dll
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/DigestNum_Recursive/obj/Debug/net11.0/DigestNum_Recursive.pdb
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/DigestNum_Recursive/obj/Debug/net11.0/DigestNum_Recursive.genruntimeconfig.cache
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/DigestNum_Recursive/obj/Debug/net11.0/ref/DigestNum_Recursive.dll
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/DigestNum_Recursive/obj/Debug/net11.0/DigestNu.70566FEB.Up2Date
