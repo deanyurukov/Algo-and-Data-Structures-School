@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GCD_Iterative", "GCD_Iterat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FractionSimpler", "FractionSimpler\FractionSimpler.csproj", "{2A8B6ECA-9749-447E-9367-3280BD7CF2BE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigestNum_Iterative", "DigestNum_Iterative\DigestNum_Iterative.csproj", "{354621D9-A495-4033-AD05-7B60A253DFED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{2A8B6ECA-9749-447E-9367-3280BD7CF2BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2A8B6ECA-9749-447E-9367-3280BD7CF2BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2A8B6ECA-9749-447E-9367-3280BD7CF2BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{354621D9-A495-4033-AD05-7B60A253DFED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{354621D9-A495-4033-AD05-7B60A253DFED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{354621D9-A495-4033-AD05-7B60A253DFED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{354621D9-A495-4033-AD05-7B60A253DFED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

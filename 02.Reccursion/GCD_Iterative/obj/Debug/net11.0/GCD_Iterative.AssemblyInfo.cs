@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GCD_Iterative")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+80d2aa165726a5cee6eb302f8c36621939ebfbe8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+14c2f4ca2a55818337f44b83182da2cae0c4ba31")]
 [assembly: System.Reflection.AssemblyProductAttribute("GCD_Iterative")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GCD_Iterative")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
