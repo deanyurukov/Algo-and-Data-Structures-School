@@ -1,4 +1,4 @@
-﻿namespace Permutation;
+﻿namespace Permutation_Recursive;
 
 class Program
 {
@@ -33,7 +33,7 @@ class Program
             {
                 used[k] = true;
                 mp[i] = k;
-                permute(i + 1); /* if (ако има смисъл да продължава генерирането) */
+                permute(i + 1);
                 used[k] = false;
             }
         }

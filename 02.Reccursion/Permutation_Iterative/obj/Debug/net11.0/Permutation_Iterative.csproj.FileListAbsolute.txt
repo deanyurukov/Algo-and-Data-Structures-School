@@ -1,0 +1,17 @@
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/Permutation_Iterative/bin/Debug/net11.0/Permutation_Iterative
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/Permutation_Iterative/bin/Debug/net11.0/Permutation_Iterative.deps.json
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/Permutation_Iterative/bin/Debug/net11.0/Permutation_Iterative.runtimeconfig.json
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/Permutation_Iterative/bin/Debug/net11.0/Permutation_Iterative.runtimeconfig.dev.json
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/Permutation_Iterative/bin/Debug/net11.0/Permutation_Iterative.dll
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/Permutation_Iterative/bin/Debug/net11.0/Permutation_Iterative.pdb
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/Permutation_Iterative/obj/Debug/net11.0/Permutation_Iterative.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/Permutation_Iterative/obj/Debug/net11.0/Permutation_Iterative.AssemblyInfoInputs.cache
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/Permutation_Iterative/obj/Debug/net11.0/Permutation_Iterative.AssemblyInfo.cs
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/Permutation_Iterative/obj/Debug/net11.0/Permutation_Iterative.csproj.CoreCompileInputs.cache
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/Permutation_Iterative/obj/Debug/net11.0/Permutation_Iterative.sourcelink.json
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/Permutation_Iterative/obj/Debug/net11.0/Permutation_Iterative.dll
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/Permutation_Iterative/obj/Debug/net11.0/refint/Permutation_Iterative.dll
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/Permutation_Iterative/obj/Debug/net11.0/Permutation_Iterative.pdb
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/Permutation_Iterative/obj/Debug/net11.0/Permutation_Iterative.genruntimeconfig.cache
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/Permutation_Iterative/obj/Debug/net11.0/ref/Permutation_Iterative.dll
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/Permutation_Iterative/obj/Debug/net11.0/Permutat.5686BA0F.Up2Date

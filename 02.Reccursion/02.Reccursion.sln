@@ -18,6 +18,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerOfTen", "PowerOfTen\Po
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Permutation_Recursive", "Permutation_Recursive\Permutation_Recursive.csproj", "{AAEB8071-1E94-4B05-A843-F98D11B4B43A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Permutation_Iterative", "Permutation_Iterative\Permutation_Iterative.csproj", "{46ABE6EA-87B1-4FDC-84BB-3CD8F4AD12FD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -60,5 +62,9 @@ Global
 		{AAEB8071-1E94-4B05-A843-F98D11B4B43A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AAEB8071-1E94-4B05-A843-F98D11B4B43A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AAEB8071-1E94-4B05-A843-F98D11B4B43A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46ABE6EA-87B1-4FDC-84BB-3CD8F4AD12FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46ABE6EA-87B1-4FDC-84BB-3CD8F4AD12FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46ABE6EA-87B1-4FDC-84BB-3CD8F4AD12FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46ABE6EA-87B1-4FDC-84BB-3CD8F4AD12FD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
