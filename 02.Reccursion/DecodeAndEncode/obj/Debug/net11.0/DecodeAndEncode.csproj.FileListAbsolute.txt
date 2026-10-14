@@ -1,0 +1,17 @@
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/DecodeAndEncode/bin/Debug/net11.0/DecodeAndEncode
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/DecodeAndEncode/bin/Debug/net11.0/DecodeAndEncode.deps.json
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/DecodeAndEncode/bin/Debug/net11.0/DecodeAndEncode.runtimeconfig.json
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/DecodeAndEncode/bin/Debug/net11.0/DecodeAndEncode.runtimeconfig.dev.json
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/DecodeAndEncode/bin/Debug/net11.0/DecodeAndEncode.dll
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/DecodeAndEncode/bin/Debug/net11.0/DecodeAndEncode.pdb
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/DecodeAndEncode/obj/Debug/net11.0/DecodeAndEncode.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/DecodeAndEncode/obj/Debug/net11.0/DecodeAndEncode.AssemblyInfoInputs.cache
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/DecodeAndEncode/obj/Debug/net11.0/DecodeAndEncode.AssemblyInfo.cs
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/DecodeAndEncode/obj/Debug/net11.0/DecodeAndEncode.csproj.CoreCompileInputs.cache
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/DecodeAndEncode/obj/Debug/net11.0/DecodeAndEncode.sourcelink.json
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/DecodeAndEncode/obj/Debug/net11.0/DecodeAndEncode.dll
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/DecodeAndEncode/obj/Debug/net11.0/refint/DecodeAndEncode.dll
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/DecodeAndEncode/obj/Debug/net11.0/DecodeAndEncode.pdb
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/DecodeAndEncode/obj/Debug/net11.0/DecodeAndEncode.genruntimeconfig.cache
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/DecodeAndEncode/obj/Debug/net11.0/ref/DecodeAndEncode.dll
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/DecodeAndEncode/obj/Debug/net11.0/DecodeAn.8E6DA8A4.Up2Date

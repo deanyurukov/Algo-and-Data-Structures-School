@@ -20,6 +20,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Permutation_Recursive", "Pe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Permutation_Iterative", "Permutation_Iterative\Permutation_Iterative.csproj", "{46ABE6EA-87B1-4FDC-84BB-3CD8F4AD12FD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecodeAndEncode", "DecodeAndEncode\DecodeAndEncode.csproj", "{48ED824A-A6B8-4FFF-977C-DF540C92967F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -66,5 +68,9 @@ Global
 		{46ABE6EA-87B1-4FDC-84BB-3CD8F4AD12FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{46ABE6EA-87B1-4FDC-84BB-3CD8F4AD12FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{46ABE6EA-87B1-4FDC-84BB-3CD8F4AD12FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48ED824A-A6B8-4FFF-977C-DF540C92967F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48ED824A-A6B8-4FFF-977C-DF540C92967F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48ED824A-A6B8-4FFF-977C-DF540C92967F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48ED824A-A6B8-4FFF-977C-DF540C92967F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
