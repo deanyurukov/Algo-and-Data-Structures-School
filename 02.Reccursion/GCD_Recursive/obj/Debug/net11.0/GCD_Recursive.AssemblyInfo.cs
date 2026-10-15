@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GCD_Recursive")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+00a4c65d19ff870498d15e94d53c32a849c71021")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b6229179e1126585e9e717a6fee01cd31b8bf97b")]
 [assembly: System.Reflection.AssemblyProductAttribute("GCD_Recursive")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GCD_Recursive")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

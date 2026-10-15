@@ -5,7 +5,19 @@ class Program
     static int MAXN = 100;
     static int n = 6;
     static readonly int[] perm = { 5, 3, 6, 4, 2, 1 };
+    // static int n = 4;
+    // static readonly int[] perm = { 2, 3, 1, 4 };
+    // static int n = 5;
+    // static readonly int[] perm = { 5, 3, 2, 4, 1 };
+    // static int n = 6;
+    // static readonly int[] perm = { 3, 6, 4, 1, 5, 2 };
+    
     static long code = 551;
+    // static long code = 3;
+    // static long code = 13;
+    // static long code = 27;
+    // static long code = 87;
+    // static long code = 119;
 
     static int[] a = new int[MAXN];
 
@@ -68,42 +80,6 @@ class Program
         }
     }
 
-    static void Print()
-    {
-        for (int i = 0; i < n; i++)
-        {
-            Console.Write(a[i] + " ");
-        }
-        Console.WriteLine();
-    }
-
-    static void Permut(int k)
-    {
-        int swap;
-
-        if (k == 0)
-        {
-            Print();
-        }
-        else
-        {
-            Permut(k - 1);
-
-            for (int i = 0; i < k - 1; i++)
-            {
-                swap = a[i];
-                a[i] = a[k - 1];
-                a[k - 1] = swap;
-
-                Permut(k - 1);
-
-                swap = a[i];
-                a[i] = a[k - 1];
-                a[k - 1] = swap;
-            }
-        }
-    }
-
     static void Main()
     {
         for (int i = 0; i < n; i++)
@@ -111,9 +87,7 @@ class Program
             a[i] = i;
         }
 
-        Permut(n);
-
-        Console.WriteLine("\nPermutation gets encoded to: " + EncodePerm(n, perm));
+        Console.WriteLine("Permutation gets encoded to: " + EncodePerm(n, perm));
 
         int[] decoded = new int[n];
         DecodePerm(code, n, decoded);
