@@ -1,0 +1,17 @@
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/DecodeAndEncodeWithRepetitions/bin/Debug/net11.0/DecodeAndEncodeWithRepetitions
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/DecodeAndEncodeWithRepetitions/bin/Debug/net11.0/DecodeAndEncodeWithRepetitions.deps.json
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/DecodeAndEncodeWithRepetitions/bin/Debug/net11.0/DecodeAndEncodeWithRepetitions.runtimeconfig.json
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/DecodeAndEncodeWithRepetitions/bin/Debug/net11.0/DecodeAndEncodeWithRepetitions.runtimeconfig.dev.json
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/DecodeAndEncodeWithRepetitions/bin/Debug/net11.0/DecodeAndEncodeWithRepetitions.dll
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/DecodeAndEncodeWithRepetitions/bin/Debug/net11.0/DecodeAndEncodeWithRepetitions.pdb
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/DecodeAndEncodeWithRepetitions/obj/Debug/net11.0/DecodeAndEncodeWithRepetitions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/DecodeAndEncodeWithRepetitions/obj/Debug/net11.0/DecodeAndEncodeWithRepetitions.AssemblyInfoInputs.cache
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/DecodeAndEncodeWithRepetitions/obj/Debug/net11.0/DecodeAndEncodeWithRepetitions.AssemblyInfo.cs
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/DecodeAndEncodeWithRepetitions/obj/Debug/net11.0/DecodeAndEncodeWithRepetitions.csproj.CoreCompileInputs.cache
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/DecodeAndEncodeWithRepetitions/obj/Debug/net11.0/DecodeAndEncodeWithRepetitions.sourcelink.json
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/DecodeAndEncodeWithRepetitions/obj/Debug/net11.0/DecodeAndEncodeWithRepetitions.dll
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/DecodeAndEncodeWithRepetitions/obj/Debug/net11.0/refint/DecodeAndEncodeWithRepetitions.dll
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/DecodeAndEncodeWithRepetitions/obj/Debug/net11.0/DecodeAndEncodeWithRepetitions.pdb
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/DecodeAndEncodeWithRepetitions/obj/Debug/net11.0/DecodeAndEncodeWithRepetitions.genruntimeconfig.cache
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/DecodeAndEncodeWithRepetitions/obj/Debug/net11.0/ref/DecodeAndEncodeWithRepetitions.dll
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/DecodeAndEncodeWithRepetitions/obj/Debug/net11.0/DecodeAn.ED6609A4.Up2Date

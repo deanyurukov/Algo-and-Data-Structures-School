@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PowerOfTen")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b6229179e1126585e9e717a6fee01cd31b8bf97b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8f94103053c7a3a2d028a8e240dbc8fd5952fa0e")]
 [assembly: System.Reflection.AssemblyProductAttribute("PowerOfTen")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PowerOfTen")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
