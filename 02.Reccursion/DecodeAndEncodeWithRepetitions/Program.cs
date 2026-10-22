@@ -16,14 +16,18 @@ class Program
         long result = 0;
 
         for (int i = 0; i < n; i++)
+        {
             p[i] = i + 1;
+        }
 
         for (int pos = 0; pos < n; pos++)
         {
             int r = 0;
 
             while (perm[pos] != p[r])
+            {
                 r++;
+            }
 
             result = result * n + r;
         }

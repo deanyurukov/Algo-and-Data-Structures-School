@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DecodeAndEncodeWithRepetitions")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8f94103053c7a3a2d028a8e240dbc8fd5952fa0e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8c18363f6447c2f08813ad5ebbbb34067bdf2410")]
 [assembly: System.Reflection.AssemblyProductAttribute("DecodeAndEncodeWithRepetitions")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DecodeAndEncodeWithRepetitions")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
