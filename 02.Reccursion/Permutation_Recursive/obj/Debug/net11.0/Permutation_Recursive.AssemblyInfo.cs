@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Permutation_Recursive")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8f94103053c7a3a2d028a8e240dbc8fd5952fa0e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4e17f1ad181cb89c796f3bca4307943c621d4535")]
 [assembly: System.Reflection.AssemblyProductAttribute("Permutation_Recursive")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Permutation_Recursive")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
