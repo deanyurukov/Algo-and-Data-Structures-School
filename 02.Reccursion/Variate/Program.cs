@@ -1,4 +1,4 @@
-﻿namespace  Variate;
+﻿namespace  VariateWithRepetition;
 
 class Program
 {
@@ -11,14 +11,16 @@ class Program
     static void Print(int i)
     {
         Console.Write("( ");
+        
         for (int l = 0; l <= i - 1; l++)
         {
             Console.Write($"{taken[l] + 1} ");
         }
+        
         Console.WriteLine(")");
     }
 
-    static void Variate(int i)
+    static void VariateWithRepetition(int i)
     {
         int j;
 
@@ -31,12 +33,32 @@ class Program
         for (j = 0; j < n; j++)
         {
             taken[i] = j;
-            Variate(i + 1);
+            VariateWithRepetition(i + 1);
+        }
+    }
+
+    static void VariateWithoutRepetition(int i)
+    {
+        int j;
+
+        if (i >= k)
+        {
+            Print(i);
+            return;
+        }
+
+        for (j = 0; j < n; j++)
+        {
+            taken[i] = j;
+            VariateWithoutRepetition(i + 1);
         }
     }
 
     static void Main()
     {
-        Variate(0);
+        // Console.WriteLine("Variate with repetition:");
+        // VariateWithRepetition(0);
+        Console.WriteLine("Variate without repetition:");
+        VariateWithoutRepetition(0);
     }
 }
