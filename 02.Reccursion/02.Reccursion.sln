@@ -26,6 +26,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecodeAndEncodeWithRepetiti
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variate_Recursive", "Variate_Recursive\Variate_Recursive.csproj", "{3BB2D533-4867-4A90-A98A-5D165306BC33}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VariateLetters", "VariateLetters\VariateLetters.csproj", "{A1DC28D2-9A38-41A9-8689-E5CF72AC58F4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -84,5 +86,9 @@ Global
 		{3BB2D533-4867-4A90-A98A-5D165306BC33}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3BB2D533-4867-4A90-A98A-5D165306BC33}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3BB2D533-4867-4A90-A98A-5D165306BC33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1DC28D2-9A38-41A9-8689-E5CF72AC58F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1DC28D2-9A38-41A9-8689-E5CF72AC58F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1DC28D2-9A38-41A9-8689-E5CF72AC58F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1DC28D2-9A38-41A9-8689-E5CF72AC58F4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

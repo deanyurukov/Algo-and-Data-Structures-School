@@ -1,0 +1,17 @@
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/VariateLetters/bin/Debug/net11.0/VariateLetters
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/VariateLetters/bin/Debug/net11.0/VariateLetters.deps.json
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/VariateLetters/bin/Debug/net11.0/VariateLetters.runtimeconfig.json
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/VariateLetters/bin/Debug/net11.0/VariateLetters.runtimeconfig.dev.json
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/VariateLetters/bin/Debug/net11.0/VariateLetters.dll
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/VariateLetters/bin/Debug/net11.0/VariateLetters.pdb
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/VariateLetters/obj/Debug/net11.0/VariateLetters.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/VariateLetters/obj/Debug/net11.0/VariateLetters.AssemblyInfoInputs.cache
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/VariateLetters/obj/Debug/net11.0/VariateLetters.AssemblyInfo.cs
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/VariateLetters/obj/Debug/net11.0/VariateLetters.csproj.CoreCompileInputs.cache
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/VariateLetters/obj/Debug/net11.0/VariateLetters.sourcelink.json
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/VariateLetters/obj/Debug/net11.0/VariateLetters.dll
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/VariateLetters/obj/Debug/net11.0/refint/VariateLetters.dll
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/VariateLetters/obj/Debug/net11.0/VariateLetters.pdb
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/VariateLetters/obj/Debug/net11.0/VariateLetters.genruntimeconfig.cache
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/VariateLetters/obj/Debug/net11.0/ref/VariateLetters.dll
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/VariateLetters/obj/Debug/net11.0/VariateL.EFAD7CF9.Up2Date
