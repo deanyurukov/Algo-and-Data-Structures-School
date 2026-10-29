@@ -24,7 +24,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecodeAndEncode", "DecodeAn
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecodeAndEncodeWithRepetitions", "DecodeAndEncodeWithRepetitions\DecodeAndEncodeWithRepetitions.csproj", "{ACCB4B27-071A-4D13-A680-DD9A5EF33BF0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variate", "Variate\Variate.csproj", "{3BB2D533-4867-4A90-A98A-5D165306BC33}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variate_Recursive", "Variate_Recursive\Variate_Recursive.csproj", "{3BB2D533-4867-4A90-A98A-5D165306BC33}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

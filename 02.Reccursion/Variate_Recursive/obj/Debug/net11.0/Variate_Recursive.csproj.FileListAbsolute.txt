@@ -1,0 +1,17 @@
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/Variate_Recursive/bin/Debug/net11.0/Variate_Recursive
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/Variate_Recursive/bin/Debug/net11.0/Variate_Recursive.deps.json
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/Variate_Recursive/bin/Debug/net11.0/Variate_Recursive.runtimeconfig.json
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/Variate_Recursive/bin/Debug/net11.0/Variate_Recursive.runtimeconfig.dev.json
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/Variate_Recursive/bin/Debug/net11.0/Variate_Recursive.dll
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/Variate_Recursive/bin/Debug/net11.0/Variate_Recursive.pdb
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/Variate_Recursive/obj/Debug/net11.0/Variate_Recursive.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/Variate_Recursive/obj/Debug/net11.0/Variate_Recursive.AssemblyInfoInputs.cache
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/Variate_Recursive/obj/Debug/net11.0/Variate_Recursive.AssemblyInfo.cs
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/Variate_Recursive/obj/Debug/net11.0/Variate_Recursive.csproj.CoreCompileInputs.cache
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/Variate_Recursive/obj/Debug/net11.0/Variate_Recursive.sourcelink.json
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/Variate_Recursive/obj/Debug/net11.0/Variate_Recursive.dll
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/Variate_Recursive/obj/Debug/net11.0/refint/Variate_Recursive.dll
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/Variate_Recursive/obj/Debug/net11.0/Variate_Recursive.pdb
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/Variate_Recursive/obj/Debug/net11.0/Variate_Recursive.genruntimeconfig.cache
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/Variate_Recursive/obj/Debug/net11.0/ref/Variate_Recursive.dll
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/Variate_Recursive/obj/Debug/net11.0/Variate_.375F48DC.Up2Date

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/Variate/Variate.csproj",
-      "projectName": "Variate",
-      "projectPath": "/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/Variate/Variate.csproj",
+      "projectUniqueName": "/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/Variate_Recursive/Variate_Recursive.csproj",
+      "projectName": "Variate_Recursive",
+      "projectPath": "/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/Variate_Recursive/Variate_Recursive.csproj",
       "packagesPath": "/Users/Dido/.nuget/packages/",
-      "outputPath": "/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/Variate/obj/",
+      "outputPath": "/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/Variate_Recursive/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/Dido/.nuget/NuGet/NuGet.Config"

@@ -1,4 +1,4 @@
-﻿namespace  VariateWithRepetition;
+﻿namespace Variate_Recursive;
 
 class Program
 {
@@ -8,7 +8,7 @@ class Program
 
     static int[] taken = new int[MAXN];
 
-    static void Print(int i)
+    static void PrintWithRepetition(int i)
     {
         Console.Write("( ");
         
@@ -19,6 +19,23 @@ class Program
         
         Console.WriteLine(")");
     }
+    
+    static void PrintWithoutRepetition(int i)
+    {
+        List<string> items = new List<string>() { "(" };
+        
+        for (int l = 0; l <= i - 1; l++)
+        {
+            items.Add((taken[l] + 1).ToString());
+        }
+        
+        items.Add(")");
+
+        if (items[1] != items[2])
+        {
+            Console.WriteLine(String.Join(" ", items));   
+        }
+    }
 
     static void VariateWithRepetition(int i)
     {
@@ -26,7 +43,7 @@ class Program
 
         if (i >= k)
         {
-            Print(i);
+            PrintWithRepetition(i);
             return;
         }
 
@@ -43,7 +60,7 @@ class Program
 
         if (i >= k)
         {
-            Print(i);
+            PrintWithoutRepetition(i);
             return;
         }
 
@@ -56,8 +73,8 @@ class Program
 
     static void Main()
     {
-        // Console.WriteLine("Variate with repetition:");
-        // VariateWithRepetition(0);
+        Console.WriteLine("Variate with repetition:");
+        VariateWithRepetition(0);
         Console.WriteLine("Variate without repetition:");
         VariateWithoutRepetition(0);
     }
