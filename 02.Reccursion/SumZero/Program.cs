@@ -4,52 +4,68 @@ class Program
 {
     const int n = 8;
     static int[] a = { 1, 2, 3, 4, 5, 6, 7, 8 };
-    static int sum = 0;
+    static char[] operations = new char[n - 1];
+    static int target;
 
     static void CheckSol()
     {
-        int tempSum = 0;
+        long result = a[0];
+        long currentTerm = a[0];
 
-        for (int i = 0; i < n; i++)
+        for (int i = 0; i < n - 1; i++)
         {
-            tempSum += a[i];
+            if (operations[i] == '+')
+            {
+                result += currentTerm;
+                currentTerm = a[i + 1];
+            }
+            else if (operations[i] == '-')
+            {
+                result += currentTerm;
+                currentTerm = -a[i + 1];
+            }
+            else if (operations[i] == '*')
+            {
+                currentTerm *= a[i + 1];
+            }
         }
 
-        if (tempSum == sum)
+        result += currentTerm;
+
+        if (result == target)
         {
-            for (int i = 0; i < n; i++)
+            Console.Write(a[0]);
+
+            for (int i = 0; i < n - 1; i++)
             {
-                if (a[i] > 0)
-                {
-                    Console.Write($"+{a[i]} ");
-                }
-                else
-                {
-                    Console.Write($"{a[i]} ");
-                }
+                Console.Write($" {operations[i]} {a[i + 1]}");
             }
 
-            Console.WriteLine($"= {tempSum}");
+            Console.WriteLine($" = {result - 1}");
         }
     }
 
     static void Variate(int i)
     {
-        if (i >= n)
+        if (i >= n - 1)
         {
             CheckSol();
             return;
         }
 
-        a[i] = Math.Abs(a[i]);
+        operations[i] = '+';
         Variate(i + 1);
 
-        a[i] = -Math.Abs(a[i]);
+        operations[i] = '-';
+        Variate(i + 1);
+
+        operations[i] = '*';
         Variate(i + 1);
     }
 
     static void Main()
     {
+        target = 1;
         Variate(0);
     }
 }
