@@ -32,6 +32,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variate_Iterative", "Variat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variate_DecodeAndEncode", "Variate_DecodeAndEncode\Variate_DecodeAndEncode.csproj", "{3782E564-FA3C-4068-B1BA-6CCDDE251DF9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumZero", "SumZero\SumZero.csproj", "{902594A3-3A31-4871-BF27-C756B43EA66C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -102,5 +104,9 @@ Global
 		{3782E564-FA3C-4068-B1BA-6CCDDE251DF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3782E564-FA3C-4068-B1BA-6CCDDE251DF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3782E564-FA3C-4068-B1BA-6CCDDE251DF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{902594A3-3A31-4871-BF27-C756B43EA66C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{902594A3-3A31-4871-BF27-C756B43EA66C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{902594A3-3A31-4871-BF27-C756B43EA66C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{902594A3-3A31-4871-BF27-C756B43EA66C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
