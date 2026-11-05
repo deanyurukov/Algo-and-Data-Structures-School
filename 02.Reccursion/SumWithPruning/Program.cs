@@ -12,7 +12,7 @@ class Program
         {
             for (int i = 0; i < n; i++)
             {
-                Console.Write($"{(signs[i] > 0 ? "+" : "-")} {a[i]} ");
+                Console.Write($"{(i > 0 ? signs[i] > 0 ? "+" : "-" : "")} {a[i]} ");
             }
 
             Console.WriteLine("= 0");
