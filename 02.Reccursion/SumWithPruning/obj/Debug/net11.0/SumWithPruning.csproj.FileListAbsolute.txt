@@ -1,0 +1,17 @@
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/SumWithPruning/bin/Debug/net11.0/SumWithPruning
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/SumWithPruning/bin/Debug/net11.0/SumWithPruning.deps.json
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/SumWithPruning/bin/Debug/net11.0/SumWithPruning.runtimeconfig.json
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/SumWithPruning/bin/Debug/net11.0/SumWithPruning.runtimeconfig.dev.json
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/SumWithPruning/bin/Debug/net11.0/SumWithPruning.dll
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/SumWithPruning/bin/Debug/net11.0/SumWithPruning.pdb
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/SumWithPruning/obj/Debug/net11.0/SumWithPruning.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/SumWithPruning/obj/Debug/net11.0/SumWithPruning.AssemblyInfoInputs.cache
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/SumWithPruning/obj/Debug/net11.0/SumWithPruning.AssemblyInfo.cs
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/SumWithPruning/obj/Debug/net11.0/SumWithPruning.csproj.CoreCompileInputs.cache
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/SumWithPruning/obj/Debug/net11.0/SumWithPruning.sourcelink.json
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/SumWithPruning/obj/Debug/net11.0/SumWithPruning.dll
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/SumWithPruning/obj/Debug/net11.0/refint/SumWithPruning.dll
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/SumWithPruning/obj/Debug/net11.0/SumWithPruning.pdb
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/SumWithPruning/obj/Debug/net11.0/SumWithPruning.genruntimeconfig.cache
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/SumWithPruning/obj/Debug/net11.0/ref/SumWithPruning.dll
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/SumWithPruning/obj/Debug/net11.0/SumWithP.C3A0502D.Up2Date

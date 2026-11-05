@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v11.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v11.0": {
+      "SumWithPruning/1.0.0": {
+        "runtime": {
+          "SumWithPruning.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SumWithPruning/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
