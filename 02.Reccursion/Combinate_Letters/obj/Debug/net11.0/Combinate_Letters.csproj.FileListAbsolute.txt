@@ -1,0 +1,17 @@
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/Combinate_Letters/bin/Debug/net11.0/Combinate_Letters
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/Combinate_Letters/bin/Debug/net11.0/Combinate_Letters.deps.json
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/Combinate_Letters/bin/Debug/net11.0/Combinate_Letters.runtimeconfig.json
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/Combinate_Letters/bin/Debug/net11.0/Combinate_Letters.runtimeconfig.dev.json
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/Combinate_Letters/bin/Debug/net11.0/Combinate_Letters.dll
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/Combinate_Letters/bin/Debug/net11.0/Combinate_Letters.pdb
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/Combinate_Letters/obj/Debug/net11.0/Combinate_Letters.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/Combinate_Letters/obj/Debug/net11.0/Combinate_Letters.AssemblyInfoInputs.cache
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/Combinate_Letters/obj/Debug/net11.0/Combinate_Letters.AssemblyInfo.cs
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/Combinate_Letters/obj/Debug/net11.0/Combinate_Letters.csproj.CoreCompileInputs.cache
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/Combinate_Letters/obj/Debug/net11.0/Combinate_Letters.sourcelink.json
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/Combinate_Letters/obj/Debug/net11.0/Combinate_Letters.dll
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/Combinate_Letters/obj/Debug/net11.0/refint/Combinate_Letters.dll
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/Combinate_Letters/obj/Debug/net11.0/Combinate_Letters.pdb
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/Combinate_Letters/obj/Debug/net11.0/Combinate_Letters.genruntimeconfig.cache
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/Combinate_Letters/obj/Debug/net11.0/ref/Combinate_Letters.dll
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/Combinate_Letters/obj/Debug/net11.0/Combinat.AD1F5C89.Up2Date

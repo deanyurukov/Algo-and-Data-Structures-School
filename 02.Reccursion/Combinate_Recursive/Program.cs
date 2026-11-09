@@ -1,4 +1,4 @@
-﻿namespace CombineWithoutRepetitioninate_Recursive;
+﻿namespace Combinate_Recursive;
 
 class Program
 {

@@ -38,6 +38,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumWithPruning", "SumWithPr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Combinate_Recursive", "Combinate_Recursive\Combinate_Recursive.csproj", "{5FE4868E-7D3F-485D-8910-E586DA3A3793}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Combinate_Letters", "Combinate_Letters\Combinate_Letters.csproj", "{D146FD65-3C6F-4961-8778-DF5A99ECEA56}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -120,5 +122,9 @@ Global
 		{5FE4868E-7D3F-485D-8910-E586DA3A3793}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5FE4868E-7D3F-485D-8910-E586DA3A3793}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5FE4868E-7D3F-485D-8910-E586DA3A3793}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D146FD65-3C6F-4961-8778-DF5A99ECEA56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D146FD65-3C6F-4961-8778-DF5A99ECEA56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D146FD65-3C6F-4961-8778-DF5A99ECEA56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D146FD65-3C6F-4961-8778-DF5A99ECEA56}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
