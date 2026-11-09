@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SumWithPruning")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6e75cb255cf542b647cb003f7f8c1aa7c8a671cb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+386b67419257cd124dfd8104f627006ef1655d33")]
 [assembly: System.Reflection.AssemblyProductAttribute("SumWithPruning")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SumWithPruning")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
