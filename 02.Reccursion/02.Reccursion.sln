@@ -40,6 +40,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Combinate_Recursive", "Comb
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Combinate_Letters", "Combinate_Letters\Combinate_Letters.csproj", "{D146FD65-3C6F-4961-8778-DF5A99ECEA56}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberPartition_Recursive", "NumberPartition_Recursive\NumberPartition_Recursive.csproj", "{5C946DC0-9D15-4092-AE55-7AED36E38DEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberPartitionReverse_Recursive", "NumberPartitionReverse_Recursive\NumberPartitionReverse_Recursive.csproj", "{98F08333-0CE8-4ED0-987E-864B61A967AC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -126,5 +130,13 @@ Global
 		{D146FD65-3C6F-4961-8778-DF5A99ECEA56}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D146FD65-3C6F-4961-8778-DF5A99ECEA56}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D146FD65-3C6F-4961-8778-DF5A99ECEA56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C946DC0-9D15-4092-AE55-7AED36E38DEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C946DC0-9D15-4092-AE55-7AED36E38DEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C946DC0-9D15-4092-AE55-7AED36E38DEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C946DC0-9D15-4092-AE55-7AED36E38DEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98F08333-0CE8-4ED0-987E-864B61A967AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98F08333-0CE8-4ED0-987E-864B61A967AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98F08333-0CE8-4ED0-987E-864B61A967AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98F08333-0CE8-4ED0-987E-864B61A967AC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

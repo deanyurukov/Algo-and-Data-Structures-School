@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Permutation_DecodeAndEncodeWithRepetitions")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+386b67419257cd124dfd8104f627006ef1655d33")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7ab0e8cf6aeda179c58b1ff8963c6925b8934d15")]
 [assembly: System.Reflection.AssemblyProductAttribute("Permutation_DecodeAndEncodeWithRepetitions")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Permutation_DecodeAndEncodeWithRepetitions")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

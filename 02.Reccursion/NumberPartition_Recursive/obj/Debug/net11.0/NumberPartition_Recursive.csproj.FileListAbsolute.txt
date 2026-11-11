@@ -1,0 +1,17 @@
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/NumberPartition_Recursive/bin/Debug/net11.0/NumberPartition_Recursive
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/NumberPartition_Recursive/bin/Debug/net11.0/NumberPartition_Recursive.deps.json
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/NumberPartition_Recursive/bin/Debug/net11.0/NumberPartition_Recursive.runtimeconfig.json
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/NumberPartition_Recursive/bin/Debug/net11.0/NumberPartition_Recursive.runtimeconfig.dev.json
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/NumberPartition_Recursive/bin/Debug/net11.0/NumberPartition_Recursive.dll
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/NumberPartition_Recursive/bin/Debug/net11.0/NumberPartition_Recursive.pdb
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/NumberPartition_Recursive/obj/Debug/net11.0/NumberPartition_Recursive.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/NumberPartition_Recursive/obj/Debug/net11.0/NumberPartition_Recursive.AssemblyInfoInputs.cache
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/NumberPartition_Recursive/obj/Debug/net11.0/NumberPartition_Recursive.AssemblyInfo.cs
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/NumberPartition_Recursive/obj/Debug/net11.0/NumberPartition_Recursive.csproj.CoreCompileInputs.cache
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/NumberPartition_Recursive/obj/Debug/net11.0/NumberPartition_Recursive.sourcelink.json
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/NumberPartition_Recursive/obj/Debug/net11.0/NumberPartition_Recursive.dll
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/NumberPartition_Recursive/obj/Debug/net11.0/refint/NumberPartition_Recursive.dll
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/NumberPartition_Recursive/obj/Debug/net11.0/NumberPartition_Recursive.pdb
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/NumberPartition_Recursive/obj/Debug/net11.0/NumberPartition_Recursive.genruntimeconfig.cache
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/NumberPartition_Recursive/obj/Debug/net11.0/ref/NumberPartition_Recursive.dll
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/NumberPartition_Recursive/obj/Debug/net11.0/NumberPa.EAFC6A7C.Up2Date

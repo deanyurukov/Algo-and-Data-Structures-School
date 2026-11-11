@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Combinate_Letters")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6ab94a0916783e08ccc3c942742eec9677c2e6e5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7ab0e8cf6aeda179c58b1ff8963c6925b8934d15")]
 [assembly: System.Reflection.AssemblyProductAttribute("Combinate_Letters")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Combinate_Letters")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
