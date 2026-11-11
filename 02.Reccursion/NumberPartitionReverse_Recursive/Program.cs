@@ -3,18 +3,16 @@
 class Program
 {
     const int MAXN = 100;
-    
     static int[] mp = new int[MAXN + 1];
-    static List<string> results = new List<string>();
 
     static void Print(int length)
     {
         for (int i = 1; i < length; i++)
         {
-            results.Add($"{mp[i]}+");
+            Console.Write($"{mp[i]}+");
         }
 
-        results.Add((mp[length]).ToString());
+        Console.WriteLine(mp[length]);
     }
 
     static void NumberPartitionReverse(int n, int pos)
@@ -25,7 +23,7 @@ class Program
         }
         else
         {
-            for (int k = n; k >= 1; k--)
+            for (int k = 1; k <= n; k++)
             {
                 mp[pos] = k;
 
@@ -42,6 +40,5 @@ class Program
         int n = int.Parse(Console.ReadLine());
         mp[0] = n + 1;
         NumberPartitionReverse(n, 1);
-        Console.WriteLine(String.Join("\n", results));
     }
 }
