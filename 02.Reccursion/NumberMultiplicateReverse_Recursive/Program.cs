@@ -1,4 +1,4 @@
-﻿namespace NumberMultiplicate_Recursive;
+﻿namespace NumberMultiplicateReverse_Recursive;
 
 class Program
 {
