@@ -46,6 +46,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberPartitionReverse_Recu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberMultiplicate_Recursive", "NumberMultiplicate_Recursive\NumberMultiplicate_Recursive.csproj", "{96932240-89A3-4D29-A7CE-432AC2EE1545}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberMultiplicateReverse_Recursive", "NumberMultiplicateReverse_Recursive\NumberMultiplicateReverse_Recursive.csproj", "{16EC303A-89C4-4C77-829E-211974675A17}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -144,5 +146,9 @@ Global
 		{96932240-89A3-4D29-A7CE-432AC2EE1545}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{96932240-89A3-4D29-A7CE-432AC2EE1545}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{96932240-89A3-4D29-A7CE-432AC2EE1545}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16EC303A-89C4-4C77-829E-211974675A17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16EC303A-89C4-4C77-829E-211974675A17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16EC303A-89C4-4C77-829E-211974675A17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16EC303A-89C4-4C77-829E-211974675A17}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

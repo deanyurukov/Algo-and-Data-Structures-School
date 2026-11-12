@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NumberMultiplicate_Recursive")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+03e2e4ae4e4406a53b1098530b2b10ccb55bb6e2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fbcc7da08763be98939f365b4fdeaa8052de96f0")]
 [assembly: System.Reflection.AssemblyProductAttribute("NumberMultiplicate_Recursive")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NumberMultiplicate_Recursive")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

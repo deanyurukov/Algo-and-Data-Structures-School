@@ -1,0 +1,17 @@
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/NumberMultiplicateReverse_Recursive/bin/Debug/net11.0/NumberMultiplicateReverse_Recursive
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/NumberMultiplicateReverse_Recursive/bin/Debug/net11.0/NumberMultiplicateReverse_Recursive.deps.json
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/NumberMultiplicateReverse_Recursive/bin/Debug/net11.0/NumberMultiplicateReverse_Recursive.runtimeconfig.json
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/NumberMultiplicateReverse_Recursive/bin/Debug/net11.0/NumberMultiplicateReverse_Recursive.runtimeconfig.dev.json
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/NumberMultiplicateReverse_Recursive/bin/Debug/net11.0/NumberMultiplicateReverse_Recursive.dll
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/NumberMultiplicateReverse_Recursive/bin/Debug/net11.0/NumberMultiplicateReverse_Recursive.pdb
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/NumberMultiplicateReverse_Recursive/obj/Debug/net11.0/NumberMultiplicateReverse_Recursive.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/NumberMultiplicateReverse_Recursive/obj/Debug/net11.0/NumberMultiplicateReverse_Recursive.AssemblyInfoInputs.cache
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/NumberMultiplicateReverse_Recursive/obj/Debug/net11.0/NumberMultiplicateReverse_Recursive.AssemblyInfo.cs
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/NumberMultiplicateReverse_Recursive/obj/Debug/net11.0/NumberMultiplicateReverse_Recursive.csproj.CoreCompileInputs.cache
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/NumberMultiplicateReverse_Recursive/obj/Debug/net11.0/NumberMultiplicateReverse_Recursive.sourcelink.json
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/NumberMultiplicateReverse_Recursive/obj/Debug/net11.0/NumberMultiplicateReverse_Recursive.dll
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/NumberMultiplicateReverse_Recursive/obj/Debug/net11.0/refint/NumberMultiplicateReverse_Recursive.dll
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/NumberMultiplicateReverse_Recursive/obj/Debug/net11.0/NumberMultiplicateReverse_Recursive.pdb
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/NumberMultiplicateReverse_Recursive/obj/Debug/net11.0/NumberMultiplicateReverse_Recursive.genruntimeconfig.cache
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/NumberMultiplicateReverse_Recursive/obj/Debug/net11.0/ref/NumberMultiplicateReverse_Recursive.dll
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/02.Reccursion/NumberMultiplicateReverse_Recursive/obj/Debug/net11.0/NumberMu.83F836D7.Up2Date
