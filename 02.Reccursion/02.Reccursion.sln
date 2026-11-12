@@ -44,6 +44,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberPartition_Recursive",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberPartitionReverse_Recursive", "NumberPartitionReverse_Recursive\NumberPartitionReverse_Recursive.csproj", "{98F08333-0CE8-4ED0-987E-864B61A967AC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberMultiplicate_Recursive", "NumberMultiplicate_Recursive\NumberMultiplicate_Recursive.csproj", "{96932240-89A3-4D29-A7CE-432AC2EE1545}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -138,5 +140,9 @@ Global
 		{98F08333-0CE8-4ED0-987E-864B61A967AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{98F08333-0CE8-4ED0-987E-864B61A967AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{98F08333-0CE8-4ED0-987E-864B61A967AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96932240-89A3-4D29-A7CE-432AC2EE1545}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96932240-89A3-4D29-A7CE-432AC2EE1545}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96932240-89A3-4D29-A7CE-432AC2EE1545}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96932240-89A3-4D29-A7CE-432AC2EE1545}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

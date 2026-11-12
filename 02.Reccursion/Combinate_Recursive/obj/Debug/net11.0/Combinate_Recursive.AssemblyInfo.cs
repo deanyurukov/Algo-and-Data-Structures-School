@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Combinate_Recursive")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7ab0e8cf6aeda179c58b1ff8963c6925b8934d15")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+03e2e4ae4e4406a53b1098530b2b10ccb55bb6e2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Combinate_Recursive")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Combinate_Recursive")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

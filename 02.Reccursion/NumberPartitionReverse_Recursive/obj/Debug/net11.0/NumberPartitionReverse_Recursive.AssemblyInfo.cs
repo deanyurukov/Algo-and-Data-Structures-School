@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NumberPartitionReverse_Recursive")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+da43d82af17d4e3fdd31d6ee0f6dcc011a3917e0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+03e2e4ae4e4406a53b1098530b2b10ccb55bb6e2")]
 [assembly: System.Reflection.AssemblyProductAttribute("NumberPartitionReverse_Recursive")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NumberPartitionReverse_Recursive")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
