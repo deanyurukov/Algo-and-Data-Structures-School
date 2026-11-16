@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckFunctionComplexity", "CheckFunctionComplexity\CheckFunctionComplexity.csproj", "{AF31C5B3-A72B-492A-A480-B1E0683362E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF31C5B3-A72B-492A-A480-B1E0683362E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF31C5B3-A72B-492A-A480-B1E0683362E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF31C5B3-A72B-492A-A480-B1E0683362E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF31C5B3-A72B-492A-A480-B1E0683362E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

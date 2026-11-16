@@ -1,0 +1,17 @@
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/03.AlgorithmEvaluationAndComplexity/CheckFunctionComplexity/bin/Debug/net11.0/CheckFunctionComplexity
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/03.AlgorithmEvaluationAndComplexity/CheckFunctionComplexity/bin/Debug/net11.0/CheckFunctionComplexity.deps.json
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/03.AlgorithmEvaluationAndComplexity/CheckFunctionComplexity/bin/Debug/net11.0/CheckFunctionComplexity.runtimeconfig.json
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/03.AlgorithmEvaluationAndComplexity/CheckFunctionComplexity/bin/Debug/net11.0/CheckFunctionComplexity.runtimeconfig.dev.json
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/03.AlgorithmEvaluationAndComplexity/CheckFunctionComplexity/bin/Debug/net11.0/CheckFunctionComplexity.dll
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/03.AlgorithmEvaluationAndComplexity/CheckFunctionComplexity/bin/Debug/net11.0/CheckFunctionComplexity.pdb
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/03.AlgorithmEvaluationAndComplexity/CheckFunctionComplexity/obj/Debug/net11.0/CheckFunctionComplexity.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/03.AlgorithmEvaluationAndComplexity/CheckFunctionComplexity/obj/Debug/net11.0/CheckFunctionComplexity.AssemblyInfoInputs.cache
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/03.AlgorithmEvaluationAndComplexity/CheckFunctionComplexity/obj/Debug/net11.0/CheckFunctionComplexity.AssemblyInfo.cs
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/03.AlgorithmEvaluationAndComplexity/CheckFunctionComplexity/obj/Debug/net11.0/CheckFunctionComplexity.csproj.CoreCompileInputs.cache
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/03.AlgorithmEvaluationAndComplexity/CheckFunctionComplexity/obj/Debug/net11.0/CheckFunctionComplexity.sourcelink.json
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/03.AlgorithmEvaluationAndComplexity/CheckFunctionComplexity/obj/Debug/net11.0/CheckFunctionComplexity.dll
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/03.AlgorithmEvaluationAndComplexity/CheckFunctionComplexity/obj/Debug/net11.0/refint/CheckFunctionComplexity.dll
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/03.AlgorithmEvaluationAndComplexity/CheckFunctionComplexity/obj/Debug/net11.0/CheckFunctionComplexity.pdb
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/03.AlgorithmEvaluationAndComplexity/CheckFunctionComplexity/obj/Debug/net11.0/CheckFunctionComplexity.genruntimeconfig.cache
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/03.AlgorithmEvaluationAndComplexity/CheckFunctionComplexity/obj/Debug/net11.0/ref/CheckFunctionComplexity.dll
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/03.AlgorithmEvaluationAndComplexity/CheckFunctionComplexity/obj/Debug/net11.0/CheckFun.AE39F36E.Up2Date
