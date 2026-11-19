@@ -43,7 +43,7 @@ class Program
         Console.WriteLine($"With n = {n}, code took {elapsedMs}ms to execute.");
     }
 
-    static void ON(int n)
+    static void ONP1(int n)
     {
         Stopwatch watch = Stopwatch.StartNew();
         int fact = 1;
@@ -90,19 +90,146 @@ class Program
         long elapsedMs = watch.ElapsedMilliseconds;
         Console.WriteLine($"With n = {n}, code took {elapsedMs}ms to execute.");
     }
+
+    static void ONPow2P3(int n)
+    {
+        Stopwatch watch = Stopwatch.StartNew();
+        int sum = 0;
+        
+        for (int i = 0; i < n; i++)
+        {
+            for (int j = 0; j < n; j++)
+            {
+                if (i == j)
+                {
+                    for (int k = 0; k < n; k++)
+                    { 
+                        sum++;
+                    }
+                }
+            }
+        }
+        
+        watch.Stop();
+        long elapsedMs = watch.ElapsedMilliseconds;
+        Console.WriteLine($"With n = {n}, code took {elapsedMs}ms to execute.");
+    }
+
+    static void ONPow2P4(int n)
+    {
+        Stopwatch watch = Stopwatch.StartNew();
+        
+        for (int i = 0; i < n; i++)
+        {
+            for (int j = 0; j < n; j++)
+            {
+                if (i == j)
+                {
+                    break;
+                }
+            }
+        }
+        
+        watch.Stop();
+        long elapsedMs = watch.ElapsedMilliseconds;
+        Console.WriteLine($"With n = {n}, code took {elapsedMs}ms to execute.");
+    }
+    
+    static void ONPow3(int n)
+    {
+        Stopwatch watch = Stopwatch.StartNew();
+        int sum = 0;
+        
+        for (int i = 1; i <= n; i++)
+        {
+            for (int j = 1; j <= i * i; j++)
+            { 
+                sum++;
+            }
+        }
+        
+        watch.Stop();
+        long elapsedMs = watch.ElapsedMilliseconds;
+        Console.WriteLine($"With n = {n}, code took {elapsedMs}ms to execute.");
+    }
+    
+    static void ONPow4(int n)
+    {
+        Stopwatch watch = Stopwatch.StartNew();
+        int sum = 0;
+        
+        for (int i = 1; i <= n; i++)
+        {
+            for (int j = 1; j <= i * i; j++)
+            {
+                for (int k =  1; k <= j * j; k++)
+                {
+                    sum++;
+                }
+            }
+        }
+        
+        watch.Stop();
+        long elapsedMs = watch.ElapsedMilliseconds;
+        Console.WriteLine($"With n = {n}, code took {elapsedMs}ms to execute.");
+    }
+
+    static void OLogN(int n)
+    {
+        Stopwatch watch = Stopwatch.StartNew();
+        
+        for (int sum = 0, h = 1; h < n; h *= 2)
+        { 
+            sum++;
+        }
+        
+        watch.Stop();
+        long elapsedMs = watch.ElapsedMilliseconds;
+        Console.WriteLine($"With n = {n}, code took {elapsedMs}ms to execute.");
+    }
+    
+    static int ONP2(int n)
+    {
+        if (n < 2)
+        {
+            return 1;
+        }
+        
+        return n * ONP2(n-1);
+    }
+
+    static int ONP3(int n)
+    {
+        if (n < 2)
+        {
+            return 1;
+        }
+        
+        return ONP3(n-1) + ONP3(n-2);
+    }
+    
+    
     
     static void Main(string[] args)
     {
-        List<int> nums = new List<int>() { 10, 100, 1000, 10000, 100000 };
+        List<int> nums = new List<int>() { 10, 100, 1000, 10000 };
 
         foreach(int num in nums)
         {
             // O2NPow2(num);
             // O200N(num);
             
-            ON(num);
+            ONP1(num);
             ONPow2P1(num);
             ONPow2P2(num);
+            ONPow2P3(num);
+            ONPow2P4(num);
+            ONPow3(num);
+            ONPow4(num);
+            OLogN(num);
+            ONP2(num);
+            ONP3(num);
+            Console.WriteLine();
         }
     }
 }
