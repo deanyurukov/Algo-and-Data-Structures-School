@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CheckFunctionComplexity")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+694ac023dbbb4f28b051f3eeb346e613a88a4a41")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b32044815f565f3e1f7ea75c2a0484fd34635926")]
 [assembly: System.Reflection.AssemblyProductAttribute("CheckFunctionComplexity")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CheckFunctionComplexity")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
