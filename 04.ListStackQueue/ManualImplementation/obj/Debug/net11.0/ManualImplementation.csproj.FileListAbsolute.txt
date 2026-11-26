@@ -1,0 +1,17 @@
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/04.ListStackQueue/ManualImplementation/bin/Debug/net11.0/ManualImplementation
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/04.ListStackQueue/ManualImplementation/bin/Debug/net11.0/ManualImplementation.deps.json
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/04.ListStackQueue/ManualImplementation/bin/Debug/net11.0/ManualImplementation.runtimeconfig.json
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/04.ListStackQueue/ManualImplementation/bin/Debug/net11.0/ManualImplementation.runtimeconfig.dev.json
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/04.ListStackQueue/ManualImplementation/bin/Debug/net11.0/ManualImplementation.dll
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/04.ListStackQueue/ManualImplementation/bin/Debug/net11.0/ManualImplementation.pdb
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/04.ListStackQueue/ManualImplementation/obj/Debug/net11.0/ManualImplementation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/04.ListStackQueue/ManualImplementation/obj/Debug/net11.0/ManualImplementation.AssemblyInfoInputs.cache
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/04.ListStackQueue/ManualImplementation/obj/Debug/net11.0/ManualImplementation.AssemblyInfo.cs
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/04.ListStackQueue/ManualImplementation/obj/Debug/net11.0/ManualImplementation.csproj.CoreCompileInputs.cache
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/04.ListStackQueue/ManualImplementation/obj/Debug/net11.0/ManualImplementation.sourcelink.json
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/04.ListStackQueue/ManualImplementation/obj/Debug/net11.0/ManualImplementation.dll
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/04.ListStackQueue/ManualImplementation/obj/Debug/net11.0/refint/ManualImplementation.dll
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/04.ListStackQueue/ManualImplementation/obj/Debug/net11.0/ManualImplementation.pdb
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/04.ListStackQueue/ManualImplementation/obj/Debug/net11.0/ManualImplementation.genruntimeconfig.cache
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/04.ListStackQueue/ManualImplementation/obj/Debug/net11.0/ref/ManualImplementation.dll
+/Users/Dido/New-Desktop/School/Algo-and-Data-Structures/04.ListStackQueue/ManualImplementation/obj/Debug/net11.0/ManualIm.39F4D64A.Up2Date
